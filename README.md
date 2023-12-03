@@ -125,4 +125,6 @@ Here are some techonologies that I use regularly or have experience working with
 <a href="https://github.com/Leniyou" target="_blank">
 <img src="https://img.shields.io/badge/github: Carlos Marte-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
 
+<hr>
+<br>
 Thanks for passing by!!! 😁
