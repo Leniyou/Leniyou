@@ -14,11 +14,11 @@
 
 ## 📖 About Me
 
-- 🙋 My name is Carlos Marte. I am from Dominican Republic <img src="image-2.png" width="20px">.
-- 🎓 I have a degree in Information Systems and Technologies.
-- 💻 I worked as a DevOps Engineer @ <a href=https://gbh.tech/>GBH</a> (1+ year).
-- 📡 I worked as a System Administrator @ <a href=https://napdelcaribe.net.do/es/>NAP del Caribe</a> (7+ year).
-- 🌱 I am currently learning the DevOps Culture and the necessary tools to carry out correct development operations, process optimization and security.
+- 🙋 My name is Carlos Marte. I am from Dominican Republic <img src="image-2.png" width="20px">
+- 🎓 I have a degree in Information Systems and Technologies
+- 💻 I worked as a DevOps Engineer @ <a href=https://gbh.tech/>GBH</a> (1+ year)
+- 📡 I worked as a System Administrator @ <a href=https://napdelcaribe.net.do/es/>NAP del Caribe</a> (7+ year)
+- 🌱 I am currently learning the DevOps Culture and the necessary tools to carry out correct development operations, process optimization and security
 
 ### 🎯 Skills
 
@@ -31,8 +31,8 @@
 
 Here are some techonologies that I use regularly or have experience working with them.
 
-| <h3>Technology</h3>    |                          <h3>Stack</h3>                             |
-| :---                    |                             :---:                                    |
+| <h3>Technology</h3>        |                          <h3>Stack</h3>                             |
+| :---                       |                             :---:                                   |
 | <h4>#️⃣ Programming</h4>   | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![ShellScript](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) |
 | <h4>📚 Frameworks</h4>| ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white) ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
 | <h4>💾 Databases</h4>| ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) |
